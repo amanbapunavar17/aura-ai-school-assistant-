@@ -1,0 +1,6 @@
+{
+  "name": "AURA AI — Human-Like School Assistant",
+  "description": "A modern, human-like AI school assistant prototype serving students, parents, teachers, and principals with contextual conversation, role-based authorization, multi-language support, voice AI, and safe escalation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
